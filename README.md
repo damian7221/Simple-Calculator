@@ -1,5 +1,7 @@
 <h1>Simple Calculator</h1>
 
+Github pages -> https://damian7221.github.io/Simple-Calculator/
+
 <h2>Introduction</h2>
 <p>Simple Calculator is a web application that enables quick and easy execution of basic mathematical operations without the need to install additional software. Designed with simplicity and usability in mind, this calculator is perfect for both beginner users and those who require fast access to simple mathematical operations on a daily basis.</p>
 
